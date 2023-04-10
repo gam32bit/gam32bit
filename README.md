@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm gam32bit</h1>
-<h3 align="center">I'm an independent journalist who's passionate about exposing injustice and inspiring progressive change. In addition to my reporting skills, I'm an avid coder with expertise in creating data visualizations and developing interactive features to enhance the reader experience. I'm now available for freelance writing and coding projects, so feel free to reach out to me for more information on my rates.</h3>
+<h1 align=>Hi 👋, I'm gam32bit</h1>
+<h3 align>I'm an independent journalist who's passionate about exposing injustice and inspiring progressive change. In addition to my reporting skills, I'm an avid coder with expertise in creating data visualizations and developing interactive features to enhance the reader experience. I'm now available for freelance writing and coding projects, so feel free to reach out to me for more information on my rates.</h3>
 
 - 🔭 I’m currently working on [Austin Power Outage Map](https://github.com/open-austin/energy-outage)
 
