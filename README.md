@@ -1,17 +1,13 @@
-<h1 align=>Hi 👋, I'm gam32bit</h1>
-<h3 align>I'm an independent journalist who's passionate about exposing injustice and inspiring progressive change. In addition to my reporting skills, I'm an avid coder with expertise in creating data visualizations and developing interactive features to enhance the reader experience. I'm now available for freelance writing and coding projects, so feel free to reach out to me for more information on my rates.</h3>
+<h1 align=>Hi 👋, I'm JW Caterine</h1>
+<h3 align>I'm a former journalist and current Digital Experience Manager at Virginia Sea Grant. I run a weekly newsletter called Round the Triangle which recaps top news stories from the Historic Triangle area of Virginia.</h3>
 
-- 🔭 I’m currently working on [Austin Power Outage Map](https://github.com/open-austin/energy-outage)
 
-- 🌱 I’m currently learning **Javascript, React**
-
-- 📝 I regularly write articles on [https://medium.com/@gambit.eboi](https://medium.com/@gambit.eboi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/gam32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gam32bit" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/jwcat757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gam32bit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joseph-caterine-578a73268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-caterine-578a73268/" height="30" width="40" /></a>
-<a href="https://instagram.com/gambit_eboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gambit_eboi" height="30" width="40" /></a>
+<a href="https://instagram.com/jwcat757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gambit_eboi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
