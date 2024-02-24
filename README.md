@@ -1,5 +1,5 @@
 <h1 align=>Hi 👋, I'm JW Caterine</h1>
-<h3 align>I'm a former journalist and current Digital Experience Manager at Virginia Sea Grant. I run a weekly newsletter called Round the Triangle which recaps top news stories from the Historic Triangle area of Virginia.</h3>
+<h3 align>I'm an independent journalist and current Digital Experience Manager at Virginia Sea Grant. I run a weekly newsletter called Round the Triangle which recaps top news stories from the Historic Triangle area of Virginia.</h3>
 
 
 
